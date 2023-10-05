@@ -4,7 +4,7 @@ import collections.abc
 collections.Hashable = collections.abc.Hashable
 
 
-chatbot = ChatBot("Snowzin")
+chatbot = ChatBot("Ricardus")
 # trainer = ChatterBotCorpusTrainer(chatbot)
 # trainer.train("chatterbot.corpus.portuguese")
 
